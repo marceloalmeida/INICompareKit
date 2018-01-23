@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "RVc+qy5SP9wOZye+2/5LPJg/SHE=",
+			"path": "gopkg.in/ini.v1",
+			"revision": "20b96f641a5ea98f2f8619ff4f3e061cff4833bd",
+			"revisionTime": "2017-08-13T05:15:16Z"
+		}
+	],
+	"rootPath": "github.com/marcelosousaalmeida/INICompareKit"
+}
