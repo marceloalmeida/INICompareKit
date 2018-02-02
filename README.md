@@ -33,4 +33,3 @@ All contributions are welcome, but if you are considering significant changes, p
 ## License
 
 MIT. See the `LICENSE` file for more information.
-
