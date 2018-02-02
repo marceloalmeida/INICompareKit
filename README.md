@@ -2,7 +2,7 @@
 
 INICompareKit it's a tool to compare INI files to find which keys are missing on the compared file.
 
-[![Build Status](https://travis-ci.org/marcelosousaalmeida/INICompareKit.svg?branch=master)](https://travis-ci.org/marcelosousaalmeida/INICompareKit)
+[![Build Status](https://travis-ci.org/marcelosousaalmeida/INICompareKit.svg?branch=master)](https://travis-ci.org/marcelosousaalmeida/INICompareKit) [![Go Report Card](https://goreportcard.com/badge/github.com/marcelosousaalmeida/INICompareKit)](https://goreportcard.com/report/github.com/marcelosousaalmeida/INICompareKit)
 
 ## Installation
 

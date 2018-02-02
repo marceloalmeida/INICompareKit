@@ -1,11 +1,11 @@
-package main
+package inicomparekit
 
 import (
-	"fmt"
-	"os"
-	"gopkg.in/ini.v1"
 	"flag"
+	"fmt"
+	"gopkg.in/ini.v1"
 	"log"
+	"os"
 )
 
 var (
@@ -51,7 +51,6 @@ func main() {
 	}
 }
 
-
 func compareFiles(original ini.File, compared ini.File, countOnly bool) int {
 
 	originalSections := original.SectionStrings()
@@ -69,7 +68,7 @@ func compareFiles(original ini.File, compared ini.File, countOnly bool) int {
 		fmt.Printf("\t - compared: %d\n", lenComparedKeys)
 
 		if countOnly == true {
-			if lenOriginalKeys > lenComparedKeys{
+			if lenOriginalKeys > lenComparedKeys {
 				fmt.Printf("\t\t - There are %d missing key(s) on this section.\n", lenOriginalKeys-lenComparedKeys)
 				exitCode = 1
 			}
