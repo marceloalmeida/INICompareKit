@@ -2,14 +2,14 @@
 
 INICompareKit it's a tool to compare INI files to find which keys are missing on the compared file.
 
-[![Build Status](https://travis-ci.org/marcelosousaalmeida/INICompareKit.svg?branch=master)](https://travis-ci.org/marcelosousaalmeida/INICompareKit) [![Go Report Card](https://goreportcard.com/badge/github.com/marcelosousaalmeida/INICompareKit)](https://goreportcard.com/report/github.com/marcelosousaalmeida/INICompareKit)
+[![Build Status](https://travis-ci.org/marceloalmeida/INICompareKit.svg?branch=master)](https://travis-ci.org/marceloalmeida/INICompareKit) [![Go Report Card](https://goreportcard.com/badge/github.com/marceloalmeida/INICompareKit)](https://goreportcard.com/report/github.com/marceloalmeida/INICompareKit)
 
 ## Installation
 
 If you are using Go 1.6+ (or 1.5 with the `GO15VENDOREXPERIMENT=1` environment variable), you can install `INICompareKit` with the following command:
 
 ```bash
-$ go get -u github.com/marcelosousaalmeida/INICompareKit
+$ go get -u github.com/marceloalmeida/INICompareKit
 ```
 
 ## Usage
